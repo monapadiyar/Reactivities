@@ -5,7 +5,6 @@ using Persistence;
 
 namespace API.Controllers
 {
-    //check
     public class ActivitiesController :BaseApiController
     {
         private readonly DataContext _context;
